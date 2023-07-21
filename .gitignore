@@ -1,3 +1,5 @@
 /target/
 **/*.rs.bk
 **/*~
+src/main.rs
+src/inputs.txt
