@@ -96,10 +96,10 @@ path = "src/main.rs"
 #bitset-fixed = "=0.1.0"
 
 # 競技プログラミングの入出力サポートその1
-proconio = { version = "=0.3.6", features = ["derive"] }
+# proconio = { version = "=0.3.6", features = ["derive"] }
 
 # 競技プログラミングの入出力サポートその2
-#text_io = "=0.1.8"
+text_io = "=0.1.8"
 
 # 競技プログラミングの入出力サポートその3
 #whiteread = "=0.5.0"
